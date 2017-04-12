@@ -1,9 +1,14 @@
 # Tensorflow for poets
 
+
 * you will learn
+
     1 安装和运行TensorFlow Docker镜像
+
     2 使用python 训练图像分类器
+
     3 使用训练的分类器对图像进行分类
+
 
 ## 安装
 
@@ -100,7 +105,9 @@ Converted 2 variables to const ops.
 ```
 
 与其他DL框架的输出类似，
+
 Train accuracy是训练过程中，在当前batch中图像分类准确率
+
 Validation accuracy是在验证集batch上的图像分类准确率
 
 ## 使用训练好的模型
